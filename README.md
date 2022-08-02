@@ -1,6 +1,5 @@
 # Projeto 02
 
-LAYOUT
 
 <img src="images/img.png" alt="Layout da página web">
 
